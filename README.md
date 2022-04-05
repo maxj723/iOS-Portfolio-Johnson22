@@ -1,11 +1,12 @@
 # iOS-Portfolio-Johnson22
 
 ## Swift
+![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 02](https://user-images.githubusercontent.com/46984489/161831180-3f1cc0fb-923e-4d04-ae02-998017d472b2.png)
+![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 19](https://user-images.githubusercontent.com/46984489/161831184-3f4c60be-9a0b-4307-9a2e-ed3fc68df01d.png)
+![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 39](https://user-images.githubusercontent.com/46984489/161831186-0474eb20-db97-449d-ae1e-b194c1479c71.png)
 
 
-![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 39](https://user-images.githubusercontent.com/46984489/161830228-afd21418-0a10-4f09-9b80-e911b4edaf04.png)
-![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 19](https://user-images.githubusercontent.com/46984489/161830234-faea0e07-614e-49b0-a4af-193f1ca16d56.png)
-![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 02](https://user-images.githubusercontent.com/46984489/161830236-9f5065da-01d0-4df3-a714-becd3385d394.png)
+
 crypto market game:
 https://github.com/maxj723/CryptoMarket
 
