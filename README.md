@@ -2,6 +2,10 @@
 
 ## Swift
 
+
+![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 39](https://user-images.githubusercontent.com/46984489/161830228-afd21418-0a10-4f09-9b80-e911b4edaf04.png)
+![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 19](https://user-images.githubusercontent.com/46984489/161830234-faea0e07-614e-49b0-a4af-193f1ca16d56.png)
+![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 02](https://user-images.githubusercontent.com/46984489/161830236-9f5065da-01d0-4df3-a714-becd3385d394.png)
 crypto market game:
 https://github.com/maxj723/CryptoMarket
 
