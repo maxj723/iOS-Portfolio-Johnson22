@@ -15,8 +15,8 @@ https://github.com/maxj723/CryptoMarket
 #### Lost & Found app:
 https://github.com/EPHS-iOS/Minnesota-School-Lost-Found
 
-![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 11 54](https://user-images.githubusercontent.com/46984489/161832126-76e98a2a-1e8d-4680-8b48-3dfd52032e60.png)
 ![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 13 09](https://user-images.githubusercontent.com/46984489/161832130-5640fd5a-fcdc-45f3-b234-d41416f8b31a.png)
+![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 11 54](https://user-images.githubusercontent.com/46984489/161832126-76e98a2a-1e8d-4680-8b48-3dfd52032e60.png)
 ![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 13 19](https://user-images.githubusercontent.com/46984489/161832131-473d1bd2-d821-4b69-8c3c-e8aa9c90b469.png)
 
 An app geared towards organizing school lost and founds. School staff can take pictures of left-behind-items and upload them to the app with a description. Students and parents can view these lost items and claim them through the app.
