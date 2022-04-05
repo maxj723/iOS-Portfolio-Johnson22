@@ -11,6 +11,8 @@ https://github.com/maxj723/CryptoMarket
 ![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 19](https://user-images.githubusercontent.com/46984489/161831184-3f4c60be-9a0b-4307-9a2e-ed3fc68df01d.png)
 ![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 39](https://user-images.githubusercontent.com/46984489/161831186-0474eb20-db97-449d-ae1e-b194c1479c71.png)
 
+This app was a learning experience for me and helped me learn Swift, SwiftUI, and XCode. The app uses JSON files to store data and utilizes dynamic views.
+
 
 #### Lost & Found app:
 https://github.com/EPHS-iOS/Minnesota-School-Lost-Found
