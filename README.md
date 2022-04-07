@@ -1,10 +1,8 @@
 # iOS-Portfolio-Johnson22
 
-## Swift
 
 
-
-### crypto market game:
+## crypto market game:
 https://github.com/maxj723/CryptoMarket
 
 ![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 02](https://user-images.githubusercontent.com/46984489/161831180-3f1cc0fb-923e-4d04-ae02-998017d472b2.png)
@@ -14,7 +12,7 @@ https://github.com/maxj723/CryptoMarket
 This app was a learning experience for me and helped me learn Swift, SwiftUI, and XCode. The app uses JSON files to store data and utilizes dynamic views.
 
 
-### Lost & Found app:
+## Lost & Found app:
 https://github.com/EPHS-iOS/Minnesota-School-Lost-Found
 
 ![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 13 09](https://user-images.githubusercontent.com/46984489/161832130-5640fd5a-fcdc-45f3-b234-d41416f8b31a.png)
