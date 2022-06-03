@@ -1,6 +1,19 @@
 # iOS-Portfolio-Johnson22
 
 
+## Lost & Found app:
+https://github.com/EPHS-iOS/Minnesota-School-Lost-Found
+
+![lf1](https://user-images.githubusercontent.com/46984489/171932267-0b95d627-2a98-45eb-9b4c-d55584df3ffd.png)
+![lf2](https://user-images.githubusercontent.com/46984489/171932296-b49c3e85-37d3-4094-93fb-8d041b6228ae.png)
+![lf3](https://user-images.githubusercontent.com/46984489/171932306-8f6d181e-f12c-4ef9-a8bb-ab52b3c5473e.png)
+![lf4](https://user-images.githubusercontent.com/46984489/171932318-adb3ea31-f4ea-48b2-a9a5-613b09f6a158.png)
+
+
+An app geared towards organizing school lost and founds. School staff can take pictures of left-behind-items and upload them to the app with a description. Students and parents can view these lost items and claim them through the app.
+I created the UI and functionality for the app. I learned how to work with CloudKit, SwiftUI, dynamic views, etc.
+
+
 
 ## crypto market game:
 https://github.com/maxj723/CryptoMarket
@@ -10,18 +23,6 @@ https://github.com/maxj723/CryptoMarket
 ![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 39](https://user-images.githubusercontent.com/46984489/161831186-0474eb20-db97-449d-ae1e-b194c1479c71.png)
 
 This app was a learning experience for me and helped me learn Swift, SwiftUI, and XCode. The app uses JSON files to store data and utilizes dynamic views.
-
-
-## Lost & Found app:
-https://github.com/EPHS-iOS/Minnesota-School-Lost-Found
-
-![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 13 09](https://user-images.githubusercontent.com/46984489/161832130-5640fd5a-fcdc-45f3-b234-d41416f8b31a.png)
-![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 11 54](https://user-images.githubusercontent.com/46984489/161832126-76e98a2a-1e8d-4680-8b48-3dfd52032e60.png)
-![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 13 19](https://user-images.githubusercontent.com/46984489/161832131-473d1bd2-d821-4b69-8c3c-e8aa9c90b469.png)
-
-An app geared towards organizing school lost and founds. School staff can take pictures of left-behind-items and upload them to the app with a description. Students and parents can view these lost items and claim them through the app.
-I have worked on coding the all views and the current functionality. Right now I am working on adding CloudKit capabilities for easy sharing between staff and students.
-
 
 
 ## AP Computer Science A: Java
