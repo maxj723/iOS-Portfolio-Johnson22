@@ -3,7 +3,7 @@
 
 # [Missing Stuff](https://github.com/EPHS-iOS/Minnesota-School-Lost-Found)
 * The lost and found at my high school is filled to the brim with items; students can spend hours looking through piles of coats and still come out with nothing. The purpose of the Missing Stuff App app is to create a place where staff members can take pictures of items in the lost and found and students can then easily see what is in the lost and found without digging through piles of items. 
-* This was the main project that I worked on in iOS App Development. I mainly worked on the UI design for this app. From this project, I learned how to create a UI that is functional and pleasing to the eye. I also created the images for the App Store using HotPot. 
+* This was the main project that I worked on in iOS App Development. I mainly worked on the backend of the app, creating the complete functionality. I also added UI features and designs to make the app look good.
 ### [Download on the App Store](https://apps.apple.com/us/app/missing-stuff/id1617140249)
 
 
@@ -28,33 +28,15 @@
 
 
 
-## Lost & Found app:
-https://github.com/EPHS-iOS/Minnesota-School-Lost-Found
 
-![lf1](https://user-images.githubusercontent.com/46984489/171932267-0b95d627-2a98-45eb-9b4c-d55584df3ffd.png)
-![lf2](https://user-images.githubusercontent.com/46984489/171932296-b49c3e85-37d3-4094-93fb-8d041b6228ae.png)
-![lf3](https://user-images.githubusercontent.com/46984489/171932306-8f6d181e-f12c-4ef9-a8bb-ab52b3c5473e.png)
-![lf4](https://user-images.githubusercontent.com/46984489/171932318-adb3ea31-f4ea-48b2-a9a5-613b09f6a158.png)
-
-
-An app geared towards organizing school lost and founds. School staff can take pictures of left-behind-items and upload them to the app with a description. Students and parents can view these lost items and claim them through the app.
-I created the UI and functionality for the app. I learned how to work with CloudKit, SwiftUI, dynamic views, etc.
-
-
-
-## crypto market game:
-https://github.com/maxj723/CryptoMarket
+# [Crypto Market Game](https://github.com/maxj723/CryptoMarket)
+* This app was a learning experience for me and helped me learn Swift, SwiftUI, and XCode. The app uses JSON files to store data and utilizes dynamic views. It is unfinished, though it was very helpful in practicing Swift.
 
 ![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 02](https://user-images.githubusercontent.com/46984489/161831180-3f1cc0fb-923e-4d04-ae02-998017d472b2.png)
 ![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 19](https://user-images.githubusercontent.com/46984489/161831184-3f4c60be-9a0b-4307-9a2e-ed3fc68df01d.png)
 ![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 14 01 39](https://user-images.githubusercontent.com/46984489/161831186-0474eb20-db97-449d-ae1e-b194c1479c71.png)
 
-This app was a learning experience for me and helped me learn Swift, SwiftUI, and XCode. The app uses JSON files to store data and utilizes dynamic views.
 
 
-## AP Computer Science A: Java
-
-
-Java Projects: https://github.com/maxj723/APCSA-Java-Projects
-
-In APCSA I worked on different projects to gain a deeper understanding of the language.
+# [AP Computer Science A: Java](https://github.com/maxj723/APCSA-Java-Projects)
+* During the spring of 2022, I took AP Computer Science A. During which I have become proficient in Java and learned the basics of Swing.
