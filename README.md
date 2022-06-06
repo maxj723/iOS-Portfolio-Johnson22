@@ -17,7 +17,7 @@
 
 
 # [Post It App](https://github.com/EPHS-iOS/Spring2022GroupProject) 
-* Each year, students in AP CSP create Post-It note instalations around EPHS. In iOS App Development, we created a game that encourages students to look for the art around the school and take pictures of it in order to earn points. I was the project manager for this project, meaning I assigned tasks and ensured they got done within a reasonable time. I also helped with the UI designs. 
+* Each year, students in AP CSP create Post-It note instalations around EPHS. In iOS App Development, we created a game that encourages students to look for the art around the school and take pictures of it in order to earn points. I worked on the backbone of the app, including the photo upload, cloud database capabilities, the leaderboard, etc.
 ### [Download on TestFlight](https://apps.apple.com/us/app/postitapp/id1620081294)
 
 ![postItGH0](https://user-images.githubusercontent.com/94394689/171725214-6c5452fa-4046-48ec-8454-b732cfc2c26f.png)
